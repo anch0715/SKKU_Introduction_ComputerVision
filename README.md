@@ -1,5 +1,5 @@
 # SKKU_SWE3051
-Introduction to Computer Vision Assignment
+Introduction to Computer Vision
 
 # Assignment 1
 // to be updated
